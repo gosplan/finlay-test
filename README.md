@@ -1,1 +1,1 @@
-![Image of power](https://imgur.com/aXTzUI8)
+![Image of glory and power](gosplan.png)
