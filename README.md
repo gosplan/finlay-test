@@ -1,1 +1,1 @@
-![alt text](https://imgur.com/R2HVrrA)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
