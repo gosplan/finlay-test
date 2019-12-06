@@ -1,1 +1,1 @@
-This is a super important work repo
+![Image of power](https://imgur.com/aXTzUI8)
