@@ -1,1 +1,1 @@
-![Image of glory and power](sad_dave.png)
+![Image of glory and power](gosplan.png) <br/> ![Image of great sadness and misery](gosplan.png)
