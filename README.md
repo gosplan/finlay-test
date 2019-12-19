@@ -1,2 +1,1 @@
-# Finlays Secret Repo
-Finlays secret stuff in this repo to make many bitcoins
+![Image of glory and power](gosplan.png) <br/> ![Image of great sadness and misery](sad_dave.png)
